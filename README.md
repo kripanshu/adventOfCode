@@ -10,6 +10,5 @@ Basic Project Structure:
 ```
 - aoc2020
   - input
-  - src
-  - test
+  - *file_name*.py 
 ```
